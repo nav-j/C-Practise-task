@@ -1,8 +1,4 @@
-Nice 👍 Here’s a **practice task set using Assignment Operators in C**, structured for easy understanding and exam practice.
-
----
-
-## 📝 **Task: Assignment Operators in C**
+## **Task: Assignment Operators in C**
 
 For each program, **predict the final output**.
 Assume all variables are of type `int`.
@@ -114,17 +110,3 @@ int main() {
 ```
 
 ---
-
-## 🎯 **Instructions**
-
-* Remember: `a += b` means `a = a + b`
-* Integer division discards decimals
-* Write only the **final output**
-
-If you want, I can next:
-
-* ✅ Provide the **answer key**
-* 🧠 Convert into **MCQs**
-* 📄 Make a **worksheet for students**
-
-Just say 😊
