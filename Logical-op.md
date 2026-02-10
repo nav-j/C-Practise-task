@@ -1,8 +1,4 @@
-Sure 👍 Here’s a **fresh practice task set using Logical Operators in C** (`&&`, `||`, `!`), suitable for beginners and exams.
-
----
-
-## 📝 **Task: Logical Operators in C**
+## **Task: Logical Operators in C**
 
 For each program, **predict the output**.
 Assume all variables are of type `int`.
@@ -102,19 +98,3 @@ int main() {
     return 0;
 }
 ```
-
----
-
-## 🎯 **Instructions**
-
-* Evaluate **relational & arithmetic expressions first**
-* Apply operator precedence: `!` → `&&` → `||`
-* Write the **final output (0 or 1)**
-
-If you want, I can:
-
-* ✅ Provide the **answer key**
-* 🧠 Convert these into **MCQs**
-* 📘 Add **exam-oriented notes**
-
-Just say 😊
