@@ -1,8 +1,4 @@
-Nice 👍 Here’s a **practice task set using Comparison (Relational) Operators in C**, perfect for fundamentals and exam prep.
-
----
-
-## 📝 **Task: Comparison Operators in C**
+## **Task: Comparison Operators in C**
 
 For each program, **predict the output**.
 Assume all variables are of type `int`.
@@ -113,19 +109,3 @@ int main() {
     return 0;
 }
 ```
-
----
-
-## 🎯 **Instructions**
-
-* Evaluate **arithmetic expressions first**
-* Then apply comparison operators
-* Final output is **0 or 1**
-
-If you want, I can:
-
-* ✅ Provide the **answer key**
-* 🧠 Convert this into **MCQs**
-* 📄 Create a **printable worksheet**
-
-Just tell me 😊
