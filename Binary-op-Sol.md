@@ -173,11 +173,3 @@ Step 2 – Left shift:
 | Task 3 | 112          |
 | Task 4 | 23           |
 | Task 5 | 8            |
-
-If you want, I can also:
-
-* 🧪 Add **more difficulty-level tasks**
-* 📝 Create **MCQs with answers**
-* 📘 Turn this into **exam notes for C language**
-
-Just say the word 😄
