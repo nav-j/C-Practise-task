@@ -1,8 +1,4 @@
-Here’s the **answer key** with clear, step-by-step explanations 👇
-
----
-
-## ✅ **Answer Key: Arithmetic Operators in C**
+##  **Answer Key: Arithmetic Operators in C**
 
 ---
 
@@ -20,8 +16,7 @@ Calculation:
 18 - 7 = 11
 11 + 5 = 16
 ```
-
-✅ **Output:**
+ **Output:**
 
 ```
 16
@@ -43,8 +38,7 @@ Calculation:
 24 × 5 = 120
 120 ÷ 10 = 12
 ```
-
-✅ **Output:**
+ **Output:**
 
 ```
 12
@@ -66,7 +60,7 @@ Calculation:
 35 ÷ 8 = 4 remainder 3
 ```
 
-✅ **Output:**
+ **Output:**
 
 ```
 3
@@ -95,7 +89,7 @@ Final:
 10 + 12 - 2 = 20
 ```
 
-✅ **Output:**
+ **Output:**
 
 ```
 20
@@ -111,7 +105,7 @@ x++;        // x = 7
 x = x * 3;  // x = 21
 ```
 
-✅ **Output:**
+ **Output:**
 
 ```
 21
@@ -127,7 +121,7 @@ y--;        // y = 19
 y = y / 3;  // 19 / 3 = 6
 ```
 
-✅ **Output:**
+ **Output:**
 
 ```
 6
@@ -156,7 +150,7 @@ Final:
 16 + 4 - 2 = 18
 ```
 
-✅ **Output:**
+ **Output:**
 
 ```
 18
@@ -164,7 +158,7 @@ Final:
 
 ---
 
-## 📊 **Final Output Summary**
+##  **Final Output Summary**
 
 | Task   | Output |
 | ------ | ------ |
@@ -175,13 +169,3 @@ Final:
 | Task 5 | 21     |
 | Task 6 | 6      |
 | Task 7 | 18     |
-
----
-
-If you want next:
-
-* 📝 **Combined operators task**
-* 🧠 **Tricky exam-oriented questions**
-* 📘 **Complete C operators revision sheet**
-
-Just let me know 😊
