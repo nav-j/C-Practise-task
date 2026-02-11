@@ -1,8 +1,4 @@
-Here’s the **answer key** with clear step-by-step explanations 👇
-
----
-
-## ✅ **Answer Key: Assignment Operators in C**
+## **Answer Key: Assignment Operators in C**
 
 ---
 
@@ -19,7 +15,7 @@ Calculation:
 10 + 5 = 15
 ```
 
-✅ **Output:**
+ **Output:**
 
 ```
 15
@@ -40,7 +36,7 @@ Equivalent to:
 a = a + 12 = 8 + 12 = 20
 ```
 
-✅ **Output:**
+ **Output:**
 
 ```
 20
@@ -61,7 +57,7 @@ Equivalent to:
 x = 20 - 7 = 13
 ```
 
-✅ **Output:**
+ **Output:**
 
 ```
 13
@@ -82,7 +78,7 @@ Equivalent to:
 p = 6 × 4 = 24
 ```
 
-✅ **Output:**
+ **Output:**
 
 ```
 24
@@ -103,7 +99,7 @@ Integer division:
 25 ÷ 4 = 6
 ```
 
-✅ **Output:**
+ **Output:**
 
 ```
 6
@@ -124,7 +120,7 @@ Calculation:
 29 % 6 = 5
 ```
 
-✅ **Output:**
+ **Output:**
 
 ```
 5
@@ -141,7 +137,7 @@ a *= 2;   // 16
 a -= 4;   // 12
 ```
 
-✅ **Output:**
+ **Output:**
 
 ```
 12
@@ -162,7 +158,7 @@ Left shift:
 12 × 2² = 48
 ```
 
-✅ **Output:**
+ **Output:**
 
 ```
 48
@@ -170,7 +166,7 @@ Left shift:
 
 ---
 
-## 📊 **Final Output Summary**
+##  **Final Output Summary**
 
 | Task   | Output |
 | ------ | ------ |
@@ -183,12 +179,3 @@ Left shift:
 | Task 7 | 12     |
 | Task 8 | 48     |
 
----
-
-If you’d like next:
-
-* 🧠 **Tricky assignment operator questions**
-* 📝 **MCQs + answers**
-* 📘 **Complete C operators revision sheet**
-
-Just tell me 😊
