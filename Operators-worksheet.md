@@ -1,4 +1,4 @@
-# 📝 C OPERATORS – STUDENT WORKSHEET
+# C OPERATORS – STUDENT WORKSHEET
 
 **Instructions:**
 
@@ -8,7 +8,7 @@
 
 ---
 
-## 🔹 Section A: Arithmetic Operators
+## Section A: Arithmetic Operators
 
 **Q1.** What will be the output?
 
@@ -33,7 +33,7 @@ printf("%d", a % 4);
 
 ---
 
-## 🔹 Section B: Assignment Operators
+## Section B: Assignment Operators
 
 **Q4.** What is the final value of `x`?
 
@@ -53,7 +53,7 @@ printf("%d", a);
 
 ---
 
-## 🔹 Section C: Comparison Operators
+## Section C: Comparison Operators
 
 **Q6.** What will be printed?
 
@@ -71,7 +71,7 @@ printf("%d", x == 8);
 
 ---
 
-## 🔹 Section D: Logical Operators
+## Section D: Logical Operators
 
 **Q8.** What is the output?
 
@@ -88,7 +88,7 @@ printf("%d", !a);
 
 ---
 
-## 🔹 Section E: Mixed Operators
+## Section E: Mixed Operators
 
 **Q10.** Evaluate the expression:
 
@@ -114,7 +114,7 @@ printf("%d", x < y || y == 10);
 
 ---
 
-# ✅ ANSWER KEY
+# ANSWER KEY
 
 ## Section A
 
@@ -145,7 +145,7 @@ printf("%d", x < y || y == 10);
 
 ---
 
-📌 **Teacher Note:**
+ **Teacher Note:**
 
 * Encourage students to explain *why* the output is 0 or 1.
 * Useful for tests, lab practice, and viva preparation.
