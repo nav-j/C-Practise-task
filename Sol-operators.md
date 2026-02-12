@@ -1,8 +1,4 @@
-Here’s the **answer key** with clear, step-by-step explanations 👇
-
----
-
-## ✅ **Answer Key: Mixed Operators in C**
+## **Answer Key: Mixed Operators in C**
 
 ---
 
@@ -17,7 +13,7 @@ a / b > 2
 * `10 / 3 = 3` (integer division)
 * `3 > 2` → **true**
 
-✅ **Output:**
+ **Output:**
 
 ```
 1
@@ -35,7 +31,7 @@ x += 4 * 2;
 * `4 * 2 = 8`
 * `x = 5 + 8 = 13`
 
-✅ **Output:**
+ **Output:**
 
 ```
 13
@@ -55,7 +51,7 @@ p / q == 3 && p % q == 0
 * `12 % 4 = 0` → true
 * `true && true` → **true**
 
-✅ **Output:**
+ **Output:**
 
 ```
 1
@@ -75,7 +71,7 @@ x > 0 || y < 10
 * `y < 10` → true
 * `false || true` → **true**
 
-✅ **Output:**
+ **Output:**
 
 ```
 1
@@ -104,7 +100,7 @@ a > 15 && b < 3
 * `2 < 3` → true
 * `true && true` → **true**
 
-✅ **Output:**
+ **Output:**
 
 ```
 1
@@ -123,7 +119,7 @@ x + 3
 * `5 << 2 = 20`
 * `20 + 3 = 23`
 
-✅ **Output:**
+ **Output:**
 
 ```
 23
@@ -143,7 +139,7 @@ int x = 4;
 * `x > 2` → true
 * `true && true` → **true**
 
-✅ **Output:**
+ **Output:**
 
 ```
 1
@@ -162,7 +158,7 @@ x == 1
 
 * Condition is true
 
-✅ **Output:**
+ **Output:**
 
 ```
 1
@@ -170,7 +166,7 @@ x == 1
 
 ---
 
-## 📊 **Final Output Summary**
+##  **Final Output Summary**
 
 | Task   | Output |
 | ------ | ------ |
@@ -182,13 +178,3 @@ x == 1
 | Task 6 | 23     |
 | Task 7 | 1      |
 | Task 8 | 1      |
-
----
-
-If you want next:
-
-* 🧠 **Tricky mixed-operator questions**
-* 📝 **MCQs with detailed logic**
-* 📘 **One-page C operators revision sheet**
-
-Just tell me 😊
