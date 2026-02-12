@@ -1,8 +1,4 @@
-Nice 👍 Here’s a **practice task set using mixed operators in C** (arithmetic + comparison + logical + assignment), perfect for strengthening fundamentals.
-
----
-
-## 📝 **Task: Mixed Operators in C**
+## **Task: Mixed Operators in C**
 
 For each program, **predict the final output**.
 Assume all variables are of type `int`.
@@ -114,17 +110,9 @@ int main() {
 
 ---
 
-## 🎯 **Instructions**
+##  **Instructions**
 
 * Follow operator precedence:
   `()` → `!` → `*, /, %` → `+, -` → comparison → `&&` → `||`
 * Integer division discards decimals
 * Final output is **0 or 1** unless printing a number
-
-If you want, I can:
-
-* ✅ Provide the **answer key**
-* 🧠 Increase difficulty (tricky exam-level)
-* 📄 Convert into a **worksheet / MCQs**
-
-Just say 😊
