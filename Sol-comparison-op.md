@@ -1,8 +1,4 @@
-Here’s the **answer key** with clear explanations for each comparison-operator task 👇
-
----
-
-## ✅ **Answer Key: Comparison (Relational) Operators in C**
+## **Answer Key: Comparison (Relational) Operators in C**
 
 > Reminder:
 >
@@ -20,8 +16,7 @@ a > b
 ```
 
 * `15 > 10` → **true**
-
-✅ **Output:**
+ **Output:**
 
 ```
 1
@@ -39,7 +34,7 @@ x < y
 
 * `7 < 12` → **true**
 
-✅ **Output:**
+ **Output:**
 
 ```
 1
@@ -57,7 +52,7 @@ p == q
 
 * Values are equal → **true**
 
-✅ **Output:**
+ **Output:**
 
 ```
 1
@@ -75,7 +70,7 @@ a != b
 
 * Values are different → **true**
 
-✅ **Output:**
+ **Output:**
 
 ```
 1
@@ -93,7 +88,7 @@ x >= y
 
 * Equal values → **true**
 
-✅ **Output:**
+ **Output:**
 
 ```
 1
@@ -111,7 +106,7 @@ m <= n
 
 * `6 <= 4` → **false**
 
-✅ **Output:**
+ **Output:**
 
 ```
 0
@@ -130,7 +125,7 @@ a / b > 2
 * `12 / 5 = 2` (integer division)
 * `2 > 2` → **false**
 
-✅ **Output:**
+ **Output:**
 
 ```
 0
@@ -150,7 +145,7 @@ x > y && x != 10
 * `8 != 10` → **true**
 * `true && true` → **true**
 
-✅ **Output:**
+ **Output:**
 
 ```
 1
@@ -158,7 +153,7 @@ x > y && x != 10
 
 ---
 
-## 📊 **Final Output Summary**
+##  **Final Output Summary**
 
 | Task   | Output |
 | ------ | ------ |
@@ -170,13 +165,3 @@ x > y && x != 10
 | Task 6 | 0      |
 | Task 7 | 0      |
 | Task 8 | 1      |
-
----
-
-If you want next:
-
-* 🧠 **Tricky comparison operator questions**
-* 📝 **MCQs with explanations**
-* 📘 **All C operators revision sheet**
-
-Just tell me 😊
