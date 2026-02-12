@@ -1,7 +1,3 @@
-Got it 👍 Here are **just 5 short questions and 5 long questions**, based strictly on your given MCQs.
-
----
-
 ## **Section A: Short Answer Questions (5)**
 
 1. What is the purpose of `#include <stdio.h>` in a C program?
