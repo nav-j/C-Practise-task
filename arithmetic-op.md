@@ -1,5 +1,5 @@
 
-## 📝 **Task: Arithmetic Operators in C**
+##  **Task: Arithmetic Operators in C**
 
 For each program, **predict the output**.
 Assume all variables are of type `int`.
