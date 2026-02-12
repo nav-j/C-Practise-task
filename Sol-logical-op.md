@@ -1,8 +1,4 @@
-Here’s the **answer key** with clear, step-by-step explanations 👇
-
----
-
-## ✅ **Answer Key: Logical Operators in C**
+## **Answer Key: Logical Operators in C**
 
 > Reminder:
 > `0 = false`, `1 = true`
@@ -21,7 +17,7 @@ a > b && b > 0
 * `4 > 0` → true (1)
 * `1 && 1` → **1**
 
-✅ **Output:**
+ **Output:**
 
 ```
 1
@@ -40,7 +36,7 @@ x || y < 5
 * `y < 5` → `9 < 5` → false (0)
 * `0 || 0` → **0**
 
-✅ **Output:**
+ **Output:**
 
 ```
 0
@@ -58,7 +54,7 @@ int p = 7;
 * `p` is non-zero → true
 * `!true` → **false (0)**
 
-✅ **Output:**
+ **Output:**
 
 ```
 0
@@ -79,7 +75,7 @@ x < y && !(y == 10)
 * `!(1)` → 0
 * `1 && 0` → **0**
 
-✅ **Output:**
+ **Output:**
 
 ```
 0
@@ -99,7 +95,7 @@ a / b == 4 && a % b == 0
 * `12 % 3 = 0` → true
 * `1 && 1` → **1**
 
-✅ **Output:**
+ **Output:**
 
 ```
 1
@@ -119,7 +115,7 @@ int n = 6;
 * `6 == 0` → false (0)
 * `1 || 0` → **1**
 
-✅ **Output:**
+ **Output:**
 
 ```
 1
@@ -140,7 +136,7 @@ x > 5 && y < 3 && x % y == 0
 * `8 % 2 = 0` → true
 * `1 && 1 && 1` → **1**
 
-✅ **Output:**
+ **Output:**
 
 ```
 1
@@ -148,7 +144,7 @@ x > 5 && y < 3 && x % y == 0
 
 ---
 
-## 📊 **Final Output Summary**
+##  **Final Output Summary**
 
 | Task   | Output |
 | ------ | ------ |
@@ -159,13 +155,3 @@ x > 5 && y < 3 && x % y == 0
 | Task 5 | 1      |
 | Task 6 | 1      |
 | Task 7 | 1      |
-
----
-
-If you want next:
-
-* 🧠 **Tricky logical-operator questions**
-* 📝 **MCQs with explanations**
-* 📘 **Complete C operators revision worksheet**
-
-Just tell me 😊
