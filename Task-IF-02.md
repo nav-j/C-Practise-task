@@ -1,10 +1,10 @@
-Here is one more **`if` statement task (without user input)** 👇
+**`if` statement task (without user input)** 
 
 ---
 
-## 📝 Task: Check Whether a Person is Eligible to Vote
+## Task: Check Whether a Person is Eligible to Vote
 
-### 🎯 Problem Statement:
+### Problem Statement:
 
 Write a C program that:
 
@@ -15,7 +15,7 @@ Write a C program that:
 
 ---
 
-### 💻 Example:
+###  Example:
 
 If `age = 20`, the output should be:
 
@@ -44,7 +44,7 @@ Here is the ✅ **Answer Key** for the task:
 
 ---
 
-## 📝 Task: Check Whether a Person is Eligible to Vote
+##  Task: Check Whether a Person is Eligible to Vote
 
 ### ✔ Complete Program:
 
@@ -64,7 +64,7 @@ int main() {
 
 ---
 
-### 📌 Explanation:
+###  Explanation:
 
 * The condition `age >= 18` checks whether the person is **18 or older**.
 * Since `age = 20`, the condition is **true**.
@@ -73,11 +73,3 @@ int main() {
 ```
 You are eligible to vote.
 ```
-
----
-
-If you want, I can now create:
-
-* 🔹 Version using `if-else`
-* 🔹 Nested `if` task
-* 🔹 Full practice sheet for your students
