@@ -1,17 +1,17 @@
-Here is a **Short Test Paper on `if`, `if-else`, and Nested `if` in C Programming** 👇
+**Short Test Paper on `if`, `if-else`, and Nested `if` in C Programming** 
 
 ---
 
-# 📝 C Programming Test
+#  C Programming Test
 
-## 📘 Topic: Decision Making Statements (`if`, `if-else`, `if-else if`, Nested `if`)
+##  Topic: Decision Making Statements (`if`, `if-else`, `if-else if`, Nested `if`)
 
 **Time: 45 Minutes**
 **Total Marks: 30**
 
 ---
 
-# ✅ Section A – Very Short Answer (1 × 5 = 5 Marks)
+#  Section A – Very Short Answer (1 × 5 = 5 Marks)
 
 *(Answer in 1–2 lines)*
 
@@ -29,7 +29,7 @@ if (x > 3)
 
 ---
 
-# ✅ Section B – Short Answer / Programs (5 × 3 = 15 Marks)
+#  Section B – Short Answer / Programs (5 × 3 = 15 Marks)
 
 ### 1. Write a program to check whether a number is positive or negative.
 
@@ -59,7 +59,7 @@ If a number is positive, then check whether it is even or odd.
 
 ---
 
-# ✅ Section C – Long Answer (5 × 2 = 10 Marks)
+#  Section C – Long Answer (5 × 2 = 10 Marks)
 
 ### 1. Write a program to find the largest of three numbers using nested `if`.
 
@@ -76,7 +76,7 @@ Here is the ✅ **Complete Answer Key** for the Test Paper
 
 ---
 
-# ✅ Section A – Very Short Answers
+#  Section A – Very Short Answers
 
 **1.** The `if` statement is used to execute a block of code only when a condition is true.
 
@@ -104,7 +104,7 @@ Hello
 
 ---
 
-# ✅ Section B – Short Programs
+#  Section B – Short Programs
 
 ---
 
@@ -209,7 +209,7 @@ int main() {
 
 ---
 
-# ✅ Section C – Long Programs
+#  Section C – Long Programs
 
 ---
 
@@ -260,11 +260,3 @@ int main() {
     return 0;
 }
 ```
-
----
-
-If you want, I can now:
-
-* 📄 Format this as a printable PDF-style paper
-* 📝 Create a more difficult version (logic-based problems)
-* 📊 Create a marking scheme with step-wise marks 😊
