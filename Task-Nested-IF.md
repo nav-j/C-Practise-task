@@ -1,10 +1,10 @@
-Here are some **Nested `if` practice tasks in C (without user input)** 👇
+ **Nested `if` practice tasks in C (without user input)** 
 
 ---
 
-# 📝 Task 1: Eligible for Scholarship
+#  Task 1: Eligible for Scholarship
 
-### 🎯 Problem:
+###  Problem:
 
 Declare:
 
@@ -23,7 +23,7 @@ Conditions:
     * Otherwise print `"Not Eligible (Income High)"`
 * Otherwise print `"Not Eligible (Low Marks)"`
 
-### 📌 Starter Code:
+###  Starter Code:
 
 ```c
 #include <stdio.h>
@@ -40,9 +40,9 @@ int main() {
 
 ---
 
-# 📝 Task 2: Find Largest of Three Numbers (Using Nested if)
+# Task 2: Find Largest of Three Numbers (Using Nested if)
 
-### 🎯 Problem:
+###  Problem:
 
 Declare:
 
@@ -52,7 +52,7 @@ int a = 10, b = 20, c = 15;
 
 Use nested `if` to find the largest number.
 
-### 📌 Starter Code:
+###  Starter Code:
 
 ```c
 #include <stdio.h>
@@ -68,9 +68,9 @@ int main() {
 
 ---
 
-# 📝 Task 3: Login System
+#  Task 3: Login System
 
-### 🎯 Problem:
+###  Problem:
 
 Declare:
 
@@ -89,7 +89,7 @@ Conditions:
     * Otherwise print `"Wrong OTP"`
 * Otherwise print `"Wrong Password"`
 
-### 📌 Starter Code:
+###  Starter Code:
 
 ```c
 #include <stdio.h>
@@ -106,9 +106,9 @@ int main() {
 
 ---
 
-# 📝 Task 4: Check Positive Even Number
+#  Task 4: Check Positive Even Number
 
-### 🎯 Problem:
+###  Problem:
 
 Declare:
 
@@ -126,7 +126,7 @@ Conditions:
     * Otherwise print `"Positive Odd Number"`
 * Otherwise print `"Negative Number"`
 
-### 📌 Starter Code:
+###  Starter Code:
 
 ```c
 #include <stdio.h>
@@ -168,7 +168,7 @@ int main() {
 }
 ```
 
-📌 Since marks = 85 and income = 200000, output:
+ Since marks = 85 and income = 200000, output:
 
 ```
 Eligible for Scholarship
@@ -201,8 +201,7 @@ int main() {
     return 0;
 }
 ```
-
-📌 Since 20 is largest, output:
+Since 20 is largest, output:
 
 ```
 Largest number is 20
@@ -232,8 +231,7 @@ int main() {
     return 0;
 }
 ```
-
-📌 Since both password and OTP are correct, output:
+ Since both password and OTP are correct, output:
 
 ```
 Login Successful
@@ -263,16 +261,8 @@ int main() {
 }
 ```
 
-📌 Since 8 is positive and even, output:
+ Since 8 is positive and even, output:
 
 ```
 Positive Even Number
 ```
-
----
-
-If you want next, I can create:
-
-* 🔹 Mixed operators + nested `if` challenge sheet
-* 🔹 Short test paper (Section A, B, C format)
-* 🔹 Complete `if` statement revision PDF-style content 😊
