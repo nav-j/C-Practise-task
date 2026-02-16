@@ -1,10 +1,10 @@
-Here is a **C task using `if` statement (without user input)** 👇
+ **C task using `if` statement (without user input)** 
 
 ---
 
-## 📝 Task: Check Whether a Number is Even or Odd
+## Task: Check Whether a Number is Even or Odd
 
-### 🎯 Problem Statement:
+### Problem Statement:
 
 Write a C program that:
 
@@ -15,7 +15,7 @@ Write a C program that:
 
 ---
 
-### 💻 Example:
+### Example:
 
 If the number is `10`, the output should be:
 
@@ -25,7 +25,7 @@ The number is even.
 
 ---
 
-### 📌 Starter Code (Students Complete It)
+### Starter Code (Students Complete It)
 
 ```c
 #include <stdio.h>
@@ -42,11 +42,11 @@ int main() {
 ---
 
 
-Here is the ✅ **Answer Key** for the task:
+Here is the  **Answer Key** for the task:
 
 ---
 
-## 📝 Task: Check Whether a Number is Even or Odd (Without Input)
+##  Task: Check Whether a Number is Even or Odd (Without Input)
 
 ### ✔ Complete Program:
 
@@ -66,7 +66,7 @@ int main() {
 
 ---
 
-### 📌 Explanation:
+###  Explanation:
 
 * `num % 2` gives the remainder when divided by 2.
 * If the remainder is `0`, the number is **even**.
@@ -75,12 +75,3 @@ int main() {
 ```
 The number is even.
 ```
-
----
-
-If you want, I can also provide:
-
-* 🔹 Version with `if-else`
-* 🔹 Practice sheet with multiple `if` questions
-* 🔹 Test paper format for your students 😊
-
