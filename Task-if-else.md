@@ -1,15 +1,15 @@
-Here are some **practice tasks using `if-else` in C (without user input)** 👇
+ **practice tasks using `if-else` in C (without user input)**
 
 ---
 
-# 📝 Task 1: Check Positive or Negative
+#  Task 1: Check Positive or Negative
 
-### 🎯 Problem:
+###  Problem:
 
 Declare an integer variable `num = -5`.
 Use `if-else` to check whether the number is **positive or negative**.
 
-### 📌 Starter Code:
+###  Starter Code:
 
 ```c
 #include <stdio.h>
@@ -25,14 +25,14 @@ int main() {
 
 ---
 
-# 📝 Task 2: Check Even or Odd
+#  Task 2: Check Even or Odd
 
-### 🎯 Problem:
+###  Problem:
 
 Declare `int num = 7;`
 Use `if-else` to check whether the number is **even or odd**.
 
-### 📌 Starter Code:
+###  Starter Code:
 
 ```c
 #include <stdio.h>
@@ -48,15 +48,15 @@ int main() {
 
 ---
 
-# 📝 Task 3: Check Pass or Fail
+#  Task 3: Check Pass or Fail
 
-### 🎯 Problem:
+###  Problem:
 
 Declare `int marks = 35;`
 If marks are **40 or above**, print `"Pass"`.
 Otherwise, print `"Fail"`.
 
-### 📌 Starter Code:
+###  Starter Code:
 
 ```c
 #include <stdio.h>
@@ -72,15 +72,15 @@ int main() {
 
 ---
 
-# 📝 Task 4: Check Greater Number
+#  Task 4: Check Greater Number
 
-### 🎯 Problem:
+###  Problem:
 
 Declare two integers:
 `int a = 15, b = 20;`
 Use `if-else` to print the greater number.
 
-### 📌 Starter Code:
+###  Starter Code:
 
 ```c
 #include <stdio.h>
@@ -117,7 +117,7 @@ int main() {
 }
 ```
 
-📌 Since `num = -5`, output will be:
+Since `num = -5`, output will be:
 
 ```
 The number is negative.
@@ -143,7 +143,7 @@ int main() {
 }
 ```
 
-📌 Since `7 % 2 != 0`, output:
+ Since `7 % 2 != 0`, output:
 
 ```
 The number is odd.
@@ -169,7 +169,7 @@ int main() {
 }
 ```
 
-📌 Since `35 < 40`, output:
+ Since `35 < 40`, output:
 
 ```
 Fail
@@ -195,16 +195,8 @@ int main() {
 }
 ```
 
-📌 Since `20 > 15`, output:
+ Since `20 > 15`, output:
 
 ```
 Greater number is 20
 ```
-
----
-
-If you want, I can now create:
-
-* 🔹 `if-else if` practice tasks
-* 🔹 Nested `if` tasks
-* 🔹 One-page revision sheet for `if` statements 😊
