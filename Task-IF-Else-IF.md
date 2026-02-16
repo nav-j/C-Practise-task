@@ -1,10 +1,10 @@
-Here are some **`if-else if` practice tasks in C (without user input)** 👇
+**`if-else if` practice tasks in C (without user input)** 
 
 ---
 
-# 📝 Task 1: Grade Calculator
+# Task 1: Grade Calculator
 
-### 🎯 Problem:
+###  Problem:
 
 Declare `int marks = 75;`
 
@@ -15,7 +15,7 @@ Use `if-else if` to print grade according to marks:
 * 50 to 74 → `"Grade C"`
 * Below 50 → `"Fail"`
 
-### 📌 Starter Code:
+### Starter Code:
 
 ```c
 #include <stdio.h>
@@ -31,16 +31,16 @@ int main() {
 
 ---
 
-# 📝 Task 2: Largest of Three Numbers
+# Task 2: Largest of Three Numbers
 
-### 🎯 Problem:
+###  Problem:
 
 Declare three integers:
 `int a = 10, b = 25, c = 15;`
 
 Use `if-else if` to print the largest number.
 
-### 📌 Starter Code:
+###  Starter Code:
 
 ```c
 #include <stdio.h>
@@ -56,9 +56,9 @@ int main() {
 
 ---
 
-# 📝 Task 3: Number Type Checker
+#  Task 3: Number Type Checker
 
-### 🎯 Problem:
+###  Problem:
 
 Declare `int num = 0;`
 
@@ -68,7 +68,7 @@ Use `if-else if` to check:
 * If number is negative
 * Otherwise print `"Number is Zero"`
 
-### 📌 Starter Code:
+### Starter Code:
 
 ```c
 #include <stdio.h>
@@ -84,9 +84,9 @@ int main() {
 
 ---
 
-# 📝 Task 4: Weekday Checker
+#  Task 4: Weekday Checker
 
-### 🎯 Problem:
+###  Problem:
 
 Declare `int day = 3;`
 
@@ -98,7 +98,7 @@ Use `if-else if` to print:
 5 → Friday
 Otherwise → `"Invalid day"`
 
-### 📌 Starter Code:
+###  Starter Code:
 
 ```c
 #include <stdio.h>
@@ -140,7 +140,7 @@ int main() {
 }
 ```
 
-📌 Since `marks = 75`, output:
+ Since `marks = 75`, output:
 
 ```
 Grade B
@@ -168,7 +168,7 @@ int main() {
 }
 ```
 
-📌 Since `b = 25` is largest, output:
+ Since `b = 25` is largest, output:
 
 ```
 Largest number is 25
@@ -196,7 +196,7 @@ int main() {
 }
 ```
 
-📌 Since `num = 0`, output:
+Since `num = 0`, output:
 
 ```
 Number is Zero
@@ -230,17 +230,8 @@ int main() {
 }
 ```
 
-📌 Since `day = 3`, output:
+ Since `day = 3`, output:
 
 ```
 Wednesday
 ```
-
----
-
-If you want, I can now create:
-
-* 🔹 Nested `if` practice tasks
-* 🔹 Mixed operator challenge questions
-* 🔹 One-page `if` revision sheet for your students 😊
-
