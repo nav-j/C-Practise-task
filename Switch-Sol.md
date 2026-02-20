@@ -165,11 +165,3 @@ int main() {
 Always remember to use `break;` in each case — otherwise execution will continue to the next case (called *fall-through*).
 
 ---
-
-If you want, I can also create:
-
-* worksheet version (questions only)
-* test paper format
-* MCQs on switch
-
-Just tell me 👍
