@@ -111,5 +111,3 @@ Switch cases:
 * B → Blue
 
 ---
-
-✅ **Want the complete answer key for these tasks?** Just say **“Provide answers.”**
