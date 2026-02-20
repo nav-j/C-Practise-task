@@ -183,11 +183,3 @@ int main() {
 When the value is already declared, the program becomes a *trace-output* question — students must predict output instead of entering input.
 
 ---
-
-If you want, I can also create:
-
-* tricky output-prediction switch questions
-* debugging switch programs
-* or a full switch statement test paper
-
-Just tell me 👍
