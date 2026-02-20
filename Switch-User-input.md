@@ -58,5 +58,3 @@ Create a menu-driven program:
 Perform operation based on user choice using `switch`.
 
 ---
-
-✅ **Want the answer key for these tasks?** Just tell me “Provide answers.”
