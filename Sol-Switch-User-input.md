@@ -151,11 +151,3 @@ int main() {
 Always include `break;` inside each `case` unless you intentionally want fall-through behavior.
 
 ---
-
-If you want, I can also create:
-
-* a test paper based only on `switch`
-* tricky switch MCQs
-* or debugging exercises
-
-Just tell me 👍
