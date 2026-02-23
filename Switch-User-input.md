@@ -31,7 +31,7 @@ Write a program that:
 
 ---
 
-## 🔹 Task 4 — Grade System
+## Task 4 — Grade System
 
 Write a program that prints grade description using `switch`:
 
@@ -45,7 +45,7 @@ Write a program that prints grade description using `switch`:
 
 ---
 
-## 🔹 Task 5 — Menu Driven Program
+## Task 5 — Menu Driven Program
 
 Create a menu-driven program:
 
