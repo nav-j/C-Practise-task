@@ -2,7 +2,7 @@ Here are **practice tasks using `switch` statement in C** (without solutions). T
 
 ---
 
-## 🔹 Task 1 — Day of Week
+## Task 1 — Day of Week
 
 Write a C program that takes a number (1–7) and prints the corresponding day of the week using a `switch` statement.
 
@@ -12,7 +12,7 @@ Output: `Wednesday`
 
 ---
 
-## 🔹 Task 2 — Simple Calculator
+## Task 2 — Simple Calculator
 
 Write a program that:
 
@@ -22,7 +22,7 @@ Write a program that:
 
 ---
 
-## 🔹 Task 3 — Vowel or Consonant
+## Task 3 — Vowel or Consonant
 
 Write a program that:
 
