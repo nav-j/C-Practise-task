@@ -2,7 +2,7 @@ Here are **practice tasks using `switch` in C** — starting from basic to a bit
 
 ---
 
-## 🧩 Task 1 — Day of Week
+##  Task 1 — Day of Week
 
 Write a C program that uses a `switch` statement to display the day name based on a number (1–7).
 
@@ -16,7 +16,7 @@ Write a C program that uses a `switch` statement to display the day name based o
 
 ---
 
-## 🧩 Task 2 — Simple Calculator
+## Task 2 — Simple Calculator
 
 Create a program that:
 
@@ -32,7 +32,7 @@ Create a program that:
 
 ---
 
-## 🧩 Task 3 — Vowel Checker
+## Task 3 — Vowel Checker
 
 Create a program that:
 
@@ -44,7 +44,7 @@ Create a program that:
 
 ---
 
-## 🧩 Task 4 — Menu Driven Program
+##  Task 4 — Menu Driven Program
 
 Display a menu:
 
@@ -63,7 +63,7 @@ Display a menu:
 
 ---
 
-## 🧩 Task 5 — Grade Message
+##  Task 5 — Grade Message
 
 Declare `char grade = 'B';`
 Use `switch` to print message:
@@ -83,7 +83,3 @@ Create a program using **nested switch** to:
 
 * Choose language (1 = English, 2 = Hindi)
 * Then choose greeting (1 = Hello, 2 = Welcome)
-
----
-
-✔️ If you want, I can also provide the **answer key** for all tasks.
